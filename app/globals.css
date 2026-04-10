@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+html.light {
+  background: white;
+  color: black;
+}
+
+html.dark {
+  background: #0f172a;
+  color: white;
+}
+
+body {
+  min-height: 100vh;
+}
